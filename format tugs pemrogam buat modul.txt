@@ -1,0 +1,16 @@
+format untuk membuat modul java
+1. instal net beans
+2. instal xampp
+3. setting awal project java swing 
+4. desain ui app siakad 
+5. desain data base
+6. operasi form menu 
+7. operasi form user
+8. operasi form tahun angkatan
+9. operasi form jurusan
+10. operasi form program studi
+11. operasi mahasiswa
+12. membuat laporan tanpa parameter 
+13.  membuat laporan mahasiswa dengan parameter 
+14. operasi form cetak laporan
+ dan dikumpulkan waktu UAS teori
